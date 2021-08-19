@@ -37,12 +37,12 @@ cursor: pointer;
 color: #fff;
 
 p {
-    transform: translate(-175%,100%)
+    transform: translate(-175%,100%);
     font-weight: bold;
     margin: 13px;
     padding-right: 20px;
 }
-`;
+`; 
 
 export const Bars = styled(FaPizzaSlice)`
     font-size: 2rem;

@@ -22,7 +22,7 @@ export const HeroContent = styled.div`
     justify-content: center;
     align-items: flex-start;
     height: 100vh;
-    max-height 100%;
+    max-height: 100%;
     padding: 0 2rem;
     width: 650px;
     color: #fff;
@@ -47,7 +47,7 @@ export const HeroContent = styled.div`
 
  `
  export const HeroBtn = styled.button`
- font-sized: 1.4rem;
+ font-size: 1.4rem;
  padding: 1rem 4rem;
  border: none;
  background: #e31837;
