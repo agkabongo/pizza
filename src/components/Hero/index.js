@@ -1,7 +1,6 @@
 import React, {useState} from 'react'
 import Navbar from '../Navbar'; 
-import {HeroContainer} from './HeroElements';
-import {HeroContent, HeroItems,HeroH1, HeroP, HeroBtn} from './HeroElements';
+import {HeroContainer, HeroContent, HeroItems,HeroH1, HeroP, HeroBtn} from './HeroElements';
 import Sidebar from '../Sidebar';
 
 

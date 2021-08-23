@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import {Link} from 'react-router-dom';
-import {FaPizzaSlice} from 'react-icons/fa';
+import { Link }  from 'react-router-dom';
+import { FaPizzaSlice } from 'react-icons/fa';
 
 
 export const Nav = styled.nav`
