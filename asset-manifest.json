@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/pizza-website/static/js/main.e3f19552.chunk.js",
-    "main.js.map": "/pizza-website/static/js/main.e3f19552.chunk.js.map",
+    "main.js": "/pizza-website/static/js/main.786bf4ab.chunk.js",
+    "main.js.map": "/pizza-website/static/js/main.786bf4ab.chunk.js.map",
     "runtime-main.js": "/pizza-website/static/js/runtime-main.0de977e1.js",
     "runtime-main.js.map": "/pizza-website/static/js/runtime-main.0de977e1.js.map",
     "static/js/2.9dff563a.chunk.js": "/pizza-website/static/js/2.9dff563a.chunk.js",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.0de977e1.js",
     "static/js/2.9dff563a.chunk.js",
-    "static/js/main.e3f19552.chunk.js"
+    "static/js/main.786bf4ab.chunk.js"
   ]
 }
